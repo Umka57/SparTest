@@ -10,7 +10,7 @@
 Код выложить на github.com.
 
 ## MainView
-
+| Main View               | MainView                |
 | ----------------------- | ----------------------- |
 | ![Screenshot 1](ScreenshotsForReadme/MainView-1.png) | ![Screenshot 2](ScreenshotsForReadme/MainView-2.png) |
 
